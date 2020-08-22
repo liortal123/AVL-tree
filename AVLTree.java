@@ -6,7 +6,6 @@
  * distinct integer keys and info
  *
  */
-//Submitted by Lior tal - liortal2 205873433 & Shelly Katz - shellykatz1 315528588
 
 public class AVLTree {
 	
